@@ -21,7 +21,7 @@
         <image.repo>10.20.6.10:30000</image.repo>
         <image.name>o-ran-sc/oam-oam-controller/sdnr-image</image.name>
         <image.version>13.0.0-SNAPSHOT-latest</image.version>
-        <odl.karaf.version>0.23.0</odl.karaf.version>
+        <odl.karaf.version>0.23.1</odl.karaf.version>
         <odl.aaa.version>0.20.8</odl.aaa.version>
         <odl.ops4j.version>8.0.27</odl.ops4j.version>
         <ccsdk.features.version>13.0.0-SNAPSHOT</ccsdk.features.version>
